@@ -1,6 +1,16 @@
 * {
   margin: 0;
   padding: 0; }
+@media (min-width: 500px){
+    body {
+        background-color: whitesmoke;
+    }
+}
+@media (max-width: 499px) {
+    body {
+        background-color: aqua;
+    }
+}
 
 body {
   background: #fff;
